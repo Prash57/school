@@ -1,7 +1,0 @@
-migrations/
-bin
-include 
-lib 
-db.sqlite/
-pyvenv.cfg/ 
-static/img/
